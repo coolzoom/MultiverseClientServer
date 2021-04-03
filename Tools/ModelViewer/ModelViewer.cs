@@ -95,7 +95,7 @@ namespace Multiverse.Tools.ModelViewer
         protected SceneNode helperNode = null;
         protected SceneNode particleNode = null;
 
-        protected Vector3 modelBase = new Vector3(32 * OneMeter, 50 * OneMeter, 32 * OneMeter);
+        protected Vector3 modelBase = new Vector3(0, 0, 0);// new Vector3(32 * OneMeter, 50 * OneMeter, 32 * OneMeter);
         protected float modelHeight = 10 * OneMeter;
         protected float cameraFocusHeight = 0.5f;
 
@@ -1181,8 +1181,32 @@ namespace Multiverse.Tools.ModelViewer
 // 			mesh.CreateTriangleIntersector();
 			loadedMesh = mesh;
 
-            loadedModel = sceneManager.CreateEntity("model", mesh);
-			Text = "ModelViewer: " + filename;
+            //loadedModel = sceneManager.CreateEntity("model", mesh);
+			//Text = "ModelViewer: " + filename;
+
+            string[] content = File.ReadAllLines("C:\\Users\\Administrator\\Desktop\\data2.csv");
+
+            for (int i = 1; i < content.Length; i++)
+            {
+                string[] l = content[i].Split(',');
+                if (l.Length == 3)
+                {
+
+                    float x = float.Parse(l[0]) * 100;
+                    float y = float.Parse(l[1]) * 100;
+                    float z = float.Parse(l[2]) * 10000;
+                    Entity headsub = sceneManager.CreateEntity("Head" + i.ToString(), mesh);
+                    loadedModel = headsub;
+                    SceneNode headNodesub = sceneManager.RootSceneNode.CreateChildSceneNode();
+                    
+                    headNodesub.AttachObject(headsub);
+                    headNodesub.Scale(new Vector3(1, 1, 1));
+                    headNodesub.Position = new Vector3(y, z, x);
+
+                    modelNode = headNodesub;
+                }
+            }
+
 
             // move the camera focus to the middle of the new model
             ModelHeight = loadedModel.BoundingBox.Maximum.y - loadedModel.BoundingBox.Minimum.y;
@@ -1194,7 +1218,7 @@ namespace Multiverse.Tools.ModelViewer
 
             PositionCamera();
 
-            modelNode.AttachObject(loadedModel);
+            //modelNode.AttachObject(loadedModel);
 
             AddCollisionObject(loadedModel, modelNode, 0, 
                                Path.GetFileNameWithoutExtension(clippedFilename) + ".physics");
