@@ -1,0 +1,6 @@
+F:\WOWServer\Source\MultiverseClientServer\Lib\SpeexWrapper\bin\x86\Debug\SpeexWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\SpeexWrapper\bin\x86\Debug\SpeexWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\SpeexWrapper\obj\x86\Debug\SpeexWrapper.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\SpeexWrapper\obj\x86\Debug\SpeexWrapper.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\SpeexWrapper\obj\x86\Debug\SpeexWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\SpeexWrapper\obj\x86\Debug\SpeexWrapper.pdb

@@ -1,0 +1,8 @@
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\bin\x86\Debug\LogUtil.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\bin\x86\Debug\LogUtil.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\bin\x86\Debug\log4net.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\obj\x86\Debug\Multiverse.Lib.LogUtil.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\obj\x86\Debug\Multiverse.Lib.LogUtil.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\obj\x86\Debug\Multiverse.Lib.LogUtil.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\obj\x86\Debug\LogUtil.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\LogUtil\obj\x86\Debug\LogUtil.pdb

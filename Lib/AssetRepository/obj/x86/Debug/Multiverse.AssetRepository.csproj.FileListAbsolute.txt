@@ -1,0 +1,9 @@
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\bin\x86\Debug\Multiverse.AssetRepository.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\bin\x86\Debug\Multiverse.AssetRepository.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.DesignateRepositoriesDialog.resources
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.assetPackagerForm.resources
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.csproj.GenerateResource.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\x86\Debug\Multiverse.AssetRepository.pdb

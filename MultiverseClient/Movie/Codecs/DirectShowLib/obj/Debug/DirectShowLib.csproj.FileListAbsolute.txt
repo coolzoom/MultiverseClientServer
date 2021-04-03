@@ -3,3 +3,8 @@ E:\MVsrc11.29.2020\MultiverseClient\Movie\Codecs\DirectShowLib\bin\Debug\DirectS
 E:\MVsrc11.29.2020\MultiverseClient\Movie\Codecs\DirectShowLib\obj\Debug\DirectShowLib.csproj.CoreCompileInputs.cache
 E:\MVsrc11.29.2020\MultiverseClient\Movie\Codecs\DirectShowLib\obj\Debug\DirectShowWrapper.dll
 E:\MVsrc11.29.2020\MultiverseClient\Movie\Codecs\DirectShowLib\obj\Debug\DirectShowWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\bin\Debug\DirectShowWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\bin\Debug\DirectShowWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\obj\Debug\DirectShowLib.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\obj\Debug\DirectShowWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\obj\Debug\DirectShowWrapper.pdb

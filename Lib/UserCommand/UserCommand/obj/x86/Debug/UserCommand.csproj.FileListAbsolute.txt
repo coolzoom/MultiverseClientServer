@@ -1,0 +1,9 @@
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\bin\x86\Debug\UserCommand.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\bin\x86\Debug\UserCommand.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\bin\x86\Debug\log4net.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\obj\x86\Debug\Multiverse.ToolBox.UserCommandEditor.resources
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\obj\x86\Debug\UserCommand.csproj.GenerateResource.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\obj\x86\Debug\UserCommand.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\obj\x86\Debug\UserCommand.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\obj\x86\Debug\UserCommand.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\UserCommand\UserCommand\obj\x86\Debug\UserCommand.pdb

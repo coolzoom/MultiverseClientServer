@@ -1,0 +1,11 @@
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\bin\x86\Debug\Multiverse.Utility.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\bin\x86\Debug\Multiverse.Utility.pdb
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\bin\x86\Debug\log4net.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\bin\x86\Debug\System.Data.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\bin\x86\Debug\System.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\bin\x86\Debug\System.Xml.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\obj\x86\Debug\Multiverse.Utility.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\obj\x86\Debug\Multiverse.Utility.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\obj\x86\Debug\Multiverse.Utility.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\obj\x86\Debug\Multiverse.Utility.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Utility\obj\x86\Debug\Multiverse.Utility.pdb

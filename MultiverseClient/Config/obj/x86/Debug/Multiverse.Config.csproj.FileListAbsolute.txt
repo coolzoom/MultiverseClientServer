@@ -1,0 +1,5 @@
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Config\bin\x86\Debug\Multiverse.Config.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Config\bin\x86\Debug\Multiverse.Config.pdb
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Config\obj\x86\Debug\Multiverse.Config.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Config\obj\x86\Debug\Multiverse.Config.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Config\obj\x86\Debug\Multiverse.Config.pdb

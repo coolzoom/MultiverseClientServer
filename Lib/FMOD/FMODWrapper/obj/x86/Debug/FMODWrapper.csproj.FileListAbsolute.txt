@@ -1,0 +1,6 @@
+F:\WOWServer\Source\MultiverseClientServer\Lib\FMOD\FMODWrapper\bin\x86\Debug\FMODWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\FMOD\FMODWrapper\bin\x86\Debug\FMODWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\FMOD\FMODWrapper\obj\x86\Debug\FMODWrapper.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\FMOD\FMODWrapper\obj\x86\Debug\FMODWrapper.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\FMOD\FMODWrapper\obj\x86\Debug\FMODWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\FMOD\FMODWrapper\obj\x86\Debug\FMODWrapper.pdb

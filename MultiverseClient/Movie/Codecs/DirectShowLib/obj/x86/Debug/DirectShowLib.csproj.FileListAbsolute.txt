@@ -1,0 +1,5 @@
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\bin\x86\Debug\DirectShowWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\bin\x86\Debug\DirectShowWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\obj\x86\Debug\DirectShowLib.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\obj\x86\Debug\DirectShowWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Movie\Codecs\DirectShowLib\obj\x86\Debug\DirectShowWrapper.pdb

@@ -1,0 +1,7 @@
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\bin\x86\Debug\Axiom.MathLib.dll
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\bin\x86\Debug\Axiom.MathLib.pdb
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\bin\x86\Debug\System.dll
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\obj\x86\Debug\Axiom.MathLib.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\obj\x86\Debug\Axiom.MathLib.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\obj\x86\Debug\Axiom.MathLib.dll
+F:\WOWServer\Source\MultiverseClientServer\Axiom\MathLib\obj\x86\Debug\Axiom.MathLib.pdb

@@ -1,0 +1,9 @@
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\bin\x86\Debug\Multiverse.Patcher.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\bin\x86\Debug\Multiverse.Patcher.pdb
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.Dialog.resources
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.UpdateForm.resources
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.csproj.GenerateResource.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.dll
+F:\WOWServer\Source\MultiverseClientServer\MultiverseClient\Patcher\obj\x86\Debug\Multiverse.Patcher.pdb

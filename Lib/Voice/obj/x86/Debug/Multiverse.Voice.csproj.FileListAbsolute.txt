@@ -1,0 +1,16 @@
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\Multiverse.Voice.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\Multiverse.Voice.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\Axiom.MathLib.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\FMODWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\log4net.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\LogUtil.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\SpeexWrapper.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\Axiom.MathLib.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\FMODWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\LogUtil.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\bin\x86\Debug\SpeexWrapper.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\obj\x86\Debug\Multiverse.Voice.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\obj\x86\Debug\Multiverse.Voice.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\obj\x86\Debug\Multiverse.Voice.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\obj\x86\Debug\Multiverse.Voice.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\Voice\obj\x86\Debug\Multiverse.Voice.pdb

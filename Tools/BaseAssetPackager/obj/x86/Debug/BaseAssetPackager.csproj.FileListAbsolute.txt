@@ -1,0 +1,5 @@
+F:\WOWServer\Source\MultiverseClientServer\Tools\BaseAssetPackager\bin\x86\Debug\BaseAssetPackager.exe
+F:\WOWServer\Source\MultiverseClientServer\Tools\BaseAssetPackager\bin\x86\Debug\BaseAssetPackager.pdb
+F:\WOWServer\Source\MultiverseClientServer\Tools\BaseAssetPackager\obj\x86\Debug\BaseAssetPackager.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\BaseAssetPackager\obj\x86\Debug\BaseAssetPackager.exe
+F:\WOWServer\Source\MultiverseClientServer\Tools\BaseAssetPackager\obj\x86\Debug\BaseAssetPackager.pdb

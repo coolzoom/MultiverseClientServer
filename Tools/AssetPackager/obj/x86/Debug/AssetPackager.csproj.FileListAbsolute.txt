@@ -1,0 +1,11 @@
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\bin\x86\Debug\AssetPackager.exe
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\bin\x86\Debug\AssetPackager.pdb
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\bin\x86\Debug\Multiverse.AssetRepository.dll
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\bin\x86\Debug\Multiverse.AssetRepository.pdb
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.Properties.Resources.resources
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.csproj.GenerateResource.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.exe
+F:\WOWServer\Source\MultiverseClientServer\Tools\AssetPackager\obj\x86\Debug\AssetPackager.pdb

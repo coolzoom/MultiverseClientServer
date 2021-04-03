@@ -7,3 +7,10 @@ E:\MVsrc11.29.2020\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.cspr
 E:\MVsrc11.29.2020\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.csproj.CoreCompileInputs.cache
 E:\MVsrc11.29.2020\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.dll
 E:\MVsrc11.29.2020\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\bin\Debug\Multiverse.AssetRepository.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\bin\Debug\Multiverse.AssetRepository.pdb
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.DesignateRepositoriesDialog.resources
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.assetPackagerForm.resources
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.csproj.GenerateResource.Cache
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.dll
+F:\WOWServer\Source\MultiverseClientServer\Lib\AssetRepository\obj\Debug\Multiverse.AssetRepository.pdb

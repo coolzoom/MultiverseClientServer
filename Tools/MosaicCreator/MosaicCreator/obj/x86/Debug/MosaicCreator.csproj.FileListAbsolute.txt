@@ -1,0 +1,12 @@
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\bin\x86\Debug\MosaicCreator.exe
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\bin\x86\Debug\MosaicCreator.pdb
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\bin\x86\Debug\Tao.DevIl.dll
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\bin\x86\Debug\Tao.DevIl.dll.config
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.csprojAssemblyReference.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\Multiverse.Tools.MosaicCreator.MosaicCreator.resources
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.Properties.Resources.resources
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.csproj.GenerateResource.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.csproj.CoreCompileInputs.cache
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.csproj.CopyComplete
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.exe
+F:\WOWServer\Source\MultiverseClientServer\Tools\MosaicCreator\MosaicCreator\obj\x86\Debug\MosaicCreator.pdb
