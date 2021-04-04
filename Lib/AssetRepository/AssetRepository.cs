@@ -1482,7 +1482,11 @@ namespace Multiverse.AssetRepository
             
         
         public void SetRepositoryDirectoriesInRegistry(List<string> directories) {
-            Settings s = new Settings();
+            Settings s = JsonConvert.DeserializeObject<Settings>(File.ReadAllText(repositorySettingsfile));
+            if (s == null)
+            {
+                s = new Settings();
+            }
             s.repositoryDirectoryList = directories;
             string strsettings = JsonConvert.SerializeObject(s, Newtonsoft.Json.Formatting.Indented);
             File.WriteAllText(repositorySettingsfile, strsettings);

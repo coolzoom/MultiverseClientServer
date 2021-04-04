@@ -2416,7 +2416,11 @@ namespace Multiverse.Tools.ModelViewer
         public void setMaxFPSInRegistry(int maxFPS)
 		{
             //Registry.SetValue(modelViewerKey, "MaxFPS", maxFPS);
-            Settings s = new Settings();
+            Settings s = JsonConvert.DeserializeObject<Settings>(File.ReadAllText(repositorySettingsfile));
+            if (s == null)
+            {
+                s = new Settings();
+            }
             s.MaxFPS = maxFPS;
             string strsettings = JsonConvert.SerializeObject(s, Newtonsoft.Json.Formatting.Indented);
             File.WriteAllText(repositorySettingsfile, strsettings);
