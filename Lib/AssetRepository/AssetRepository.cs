@@ -6,7 +6,9 @@ using System.Xml;
 //using Axiom.Core;
 //using Axiom.Serialization;
 using System.Diagnostics;
-using Microsoft.Win32;
+using System.Windows.Forms;
+using Newtonsoft.Json;
+//using Microsoft.Win32;
 
 namespace Multiverse.AssetRepository
 {
@@ -1415,14 +1417,16 @@ namespace Multiverse.AssetRepository
 			"Interface", "Interface\\FrameXML",
 			"Script", "Interface\\FrameXML",
 			"Script", "Scripts" };
-		
-		protected static string repositoryKey = Registry.CurrentUser + "\\Software\\Multiverse\\AssetRepository";
+
+        protected static string repositorySettingsfile = Path.Combine(Application.StartupPath , "Settings.json");
+
+        //protected static string repositoryKey = Registry.CurrentUser + "\\Software\\Multiverse\\AssetRepository";
         // This is only used for legacy registry keys - - all new get APIs
         // only access this key if the repositoryPathListAttrName key
         // does not exist, and all sets set the
         // repositoryPathListAttrName key.
-        protected static string repositoryPathAttrName = "RepositoryDirectory";
-        protected static string repositoryPathListAttrName = "RepositoryDirectories";
+        //protected static string repositoryPathAttrName = "RepositoryDirectory";
+        //protected static string repositoryPathListAttrName = "RepositoryDirectories";
 
         public List<string> CheckForValidRepository()
         {
@@ -1478,22 +1482,17 @@ namespace Multiverse.AssetRepository
             
         
         public void SetRepositoryDirectoriesInRegistry(List<string> directories) {
-            Registry.SetValue(repositoryKey, repositoryPathListAttrName, directories.ToArray());
-            repositoryDirectoryList = directories;
+            Settings s = new Settings();
+            s.repositoryDirectoryList = directories;
+            string strsettings = JsonConvert.SerializeObject(s, Newtonsoft.Json.Formatting.Indented);
+            File.WriteAllText(repositorySettingsfile, strsettings);
+
         }
 
         protected List<string> GetRepositoryDirectoriesFromRegistry() {
-            repositoryDirectoryList = new List<string>();
-            Object value = Registry.GetValue(repositoryKey, repositoryPathListAttrName, null);
-            if (value != null) {
-                string[] paths = value as string[];
-                if (paths.Length > 0 && paths[0] != string.Empty)
-                    repositoryDirectoryList = new List<string>(paths);
-            }  else {
-                value = Registry.GetValue(repositoryKey, repositoryPathAttrName, null);
-                if (value != null)
-                    repositoryDirectoryList.Add((string)value);    
-            }
+            Settings s = JsonConvert.DeserializeObject<Settings>(File.ReadAllText(repositorySettingsfile));
+            if(s!=null)
+                repositoryDirectoryList = s.repositoryDirectoryList;
             return repositoryDirectoryList;
         }
 

@@ -49,12 +49,17 @@ namespace Multiverse.AssetRepository
         private void InitRest() 
         {
             FilesListBox.Items.Clear();
+            
             List<string> directories = (repositoryDirectoryList != null ? repositoryDirectoryList : 
-                                        new List<string>(RepositoryClass.Instance.RepositoryDirectoryList));
-            foreach (string dir in directories)
-                FilesListBox.Items.Add(dir);
-            if (directories.Count > 0)
-                FilesListBox.SelectedIndex = 0;
+                                        RepositoryClass.Instance.RepositoryDirectoryList);
+            if (directories != null)
+            {
+                foreach (string dir in directories)
+                    FilesListBox.Items.Add(dir);
+                if (directories.Count > 0)
+                    FilesListBox.SelectedIndex = 0;
+            }
+
         }
         
         private void BrowseAndAddButton_Click(object sender, EventArgs e)

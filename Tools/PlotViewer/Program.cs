@@ -64,8 +64,8 @@ namespace Multiverse.Tools.ModelViewer
             string initialModel = null;
             if (args.Length > 0)
                 initialModel = args[0];
-            try
-            {
+            //try
+            //{
                 // Set the current directory to the the directory of the excutable
                 String execDir = Application.ExecutablePath.Substring(0, Application.ExecutablePath.LastIndexOf("\\"));
                 Directory.SetCurrentDirectory(execDir);
@@ -100,13 +100,13 @@ namespace Multiverse.Tools.ModelViewer
                 modelViewer.Show();
                 modelViewer.Start();
 
-            }
-            catch (Exception ex)
-            {
-                // try logging the error here first, before Root is disposed of
-                LogUtil.ExceptionLog.ErrorFormat("Caught exception: {0}", ex);
-                throw;
-            }
+            //}
+            //catch (Exception ex)
+            //{
+            //    // try logging the error here first, before Root is disposed of
+            //    LogUtil.ExceptionLog.ErrorFormat("Caught exception: {0}", ex);
+            //    throw;
+            //}
         }
 
         public static string[] ParseArgumentString(string argStr) {

@@ -50,7 +50,7 @@ using Axiom.Serialization;
 using Multiverse.Serialization;
 using Multiverse.AssetRepository;
 using Multiverse.CollisionLib;
-using Microsoft.Win32;
+using Newtonsoft.Json;
 
 namespace Multiverse.Tools.ModelViewer
 {
@@ -2411,18 +2411,22 @@ namespace Multiverse.Tools.ModelViewer
             }
         }
 
-		protected static string modelViewerKey = Registry.CurrentUser + "\\Software\\Multiverse\\ModelViewer\\";
-
-		public void setMaxFPSInRegistry(int maxFPS)
+        //protected static string modelViewerKey = Registry.CurrentUser + "\\Software\\Multiverse\\ModelViewer\\";
+        protected static string repositorySettingsfile = Path.Combine(Application.StartupPath, "Settings.json");
+        public void setMaxFPSInRegistry(int maxFPS)
 		{
-			Registry.SetValue(modelViewerKey, "MaxFPS", maxFPS);
-		}
+            //Registry.SetValue(modelViewerKey, "MaxFPS", maxFPS);
+            Settings s = new Settings();
+            s.MaxFPS = maxFPS;
+            string strsettings = JsonConvert.SerializeObject(s, Newtonsoft.Json.Formatting.Indented);
+            File.WriteAllText(repositorySettingsfile, strsettings);
+        }
 		
 		protected void getMaxFPSFromRegistry()
 		{
-            Object maxFPS = Registry.GetValue(modelViewerKey, "MaxFPS", null);
-            if (maxFPS != null)
-                Root.Instance.MaxFramesPerSecond = (int)maxFPS;
+            Settings s = JsonConvert.DeserializeObject<Settings>(File.ReadAllText(repositorySettingsfile));
+            if (s != null)
+                Root.Instance.MaxFramesPerSecond = (int)s.MaxFPS;
 		}
 		
         private void axiomPictureBox_Resize(object sender, EventArgs e)
